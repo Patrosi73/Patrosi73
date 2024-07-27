@@ -1,4 +1,9 @@
-## Hi there 👋
+## hey
+i do things sometimes. sometimes i share those things around :)
+
+i enjoy making software that automates repetitive tasks in fields where it's something that nobody expects but everyone secretly wants. sometimes it [goes great](https://github.com/Patrosi73/discord-youtubelive-clipping-bot), sometimes it's [a total disaster that barely even works](https://github.com/Patrosi73/YouTube-Channel-Video-Monitor/) (and then turns out [someone already did it better than you anyway](https://github.com/jerbear2008/tttakedown-tracker)). but that's the way of life, isn't it?
+
+i am a certified python programming language enjoyer
 
 <!--
 **Patrosi73/Patrosi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
